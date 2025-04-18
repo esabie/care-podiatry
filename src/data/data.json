@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Experience our expert podiatry services",
+    "paragraph": "At Care Connect Podiatry we aim to provide excellent care and promise to treat every patient as an individual at all times"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -68,65 +68,65 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "General Foot Health",
+      "text": "Regular foot health maintenance appointment enables patients to dramatically reduce the likelihood of foot complications such as ingrowing nails, hard skin and more."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Nail Surgery",
+      "text": "A nail condition that cannot be resolved by routine care at the clinic, surgery could be offered as a solution. Surgery helps relieve any pain and prevent infections caused by the toenail."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Shockwave Therapy",
+      "text": "Shockwave therapy is an effective form of treatment for chronic musculoskeletal pain. It is a non invasive alternative to surgery, injections & oral medication. It increases the blood flow to the injured area in intense, short waves."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Swift Treatment",
+      "text": "Swift is a new technology, developed in the UK, which has been licensed for the general treatment of Verruca and skin lesions in Podiatry and Dermatology. Swift uses microwave energy which is delivered through a special probe applied to the skin to treat the affected tissue."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Steroid Injections",
+      "text": "Steroid injections are cortisone substance inserted into inflamed joints to provide pain relief from symptoms such as pain, swelling, inflammation in the foot and lower limb. Cortisone injections are usually given when patients haven't responded well to conservative management."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Plantar Fasciitis",
+      "text": " Plantar fasciitis is one of the most common foot conditions. It is an overuse condition of the plantar fascia where it has been overworked, micro tears occur within the tissue and inflammation leads to discomfort. Our highly trained podiatrists are experts in heel pain assessment."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"From the moment I walked in, I felt welcomed. The staff is friendly, and the clinic is clean and modern. It’s clear they truly care about their patients’ well-being.\"",
+      "name": "Simon D,. 73"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"My father is in his 80s and receives regular foot care here. The team is gentle, patient, and thorough. We’re so grateful to have found such excellent care.\"",
+      "name": "Thomas L., 45"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I’m a runner, and when I injured my foot, I was devastated. The podiatrist not only helped me recover but also taught me how to avoid re-injury. I’m back on track thanks to them!\"",
+      "name": "Kevin K., 29"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"As a diabetic, I know how important foot care is. This clinic is exceptional—they monitor everything closely and take proactive steps to prevent issues. I trust them completely.\"",
+      "name": "Linda M., 47"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I never realized how much custom orthotics could improve my daily life. The team took the time to explain everything and ensured the fit was perfect. I can walk without pain again!\"",
+      "name": "Jason T., 31"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I was nervous about getting treatment for an ingrown toenail, but the staff made me feel completely at ease. The procedure was quick and virtually painless. Highly recommend!\"",
+      "name": "Elena R., 55"
     }
   ],
   "Team": [
@@ -153,32 +153,28 @@
   ],
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "phone": "+44 123 456 1234",
+    "email": "info@careconnectpodiatry.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-award",
+      "title": "All our podiatrists are HCPC registered"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Members of the Royal College of Podiatry"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Domiciliary visits"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Free parking during your appointment"
     }
   ]
 }

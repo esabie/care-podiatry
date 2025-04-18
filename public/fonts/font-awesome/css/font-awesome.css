@@ -809,6 +809,11 @@
 .fa-comments-o:before {
   content: "\f0e6";
 }
+.fa-award:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f559";
+  font-weight: 900;
+}
 .fa-flash:before,
 .fa-bolt:before {
   content: "\f0e7";
