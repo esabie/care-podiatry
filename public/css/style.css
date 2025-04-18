@@ -37,6 +37,7 @@ h5 {
 }
 p {
   font-size: 15px;
+  
 }
 p.intro {
   margin: 12px 0 0;
@@ -228,6 +229,9 @@ a:focus,
   margin-top: 0;
   margin-bottom: 10px;
 }
+.header-title {
+  color: #003366; /* or any color you prefer */
+}
 .intro h1 span {
   font-weight: 800;
   color: #5ca9fb;
@@ -244,6 +248,7 @@ header .intro-text {
   padding-top: 350px;
   padding-bottom: 200px;
   text-align: center;
+  color: #032b55;
 }
 /* Features Section */
 #features {
