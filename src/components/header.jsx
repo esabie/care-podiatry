@@ -14,7 +14,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#contact"
+                  href="https://calendly.com/sabieeugeneosei177/30min"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Book an appointment
