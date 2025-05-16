@@ -53,7 +53,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="https://contact-foot-clinic-podiatry.uk2.cliniko.com/bookings#service" className="btn btn-custom btn-lg page-scroll">
+              <a href="https://contact-foot-clinic-podiatry.uk2.cliniko.com/bookings?business_id=1674060033190535491&practitioner_id=1674060029977698768" className="btn btn-custom btn-lg page-scroll">
                 Book Appointment
               </a>
             </li>
