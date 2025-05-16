@@ -19,8 +19,8 @@ export const Navigation = (props) => {
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
             <img
-              src="img/logo.jpg"
-              style={{ width: '90px', height: '80px' }}
+              src="img/logo2.jpg"
+              style={{ width: '100px', height: '90px' }}
               alt="care logo"
             />
           </a>{" "}
@@ -53,7 +53,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="https://contact-foot-clinic-podiatry.uk2.cliniko.com/bookings?business_id=1674060033190535491&practitioner_id=1674060029977698768" className="btn btn-custom btn-lg page-scroll">
+              <a href="https://contact-foot-clinic-podiatry.uk2.cliniko.com/bookings?business_id=1674060033190535491&practitioner_id=1674060029977698768" target="_blank" rel="noopener noreferrer" className="btn btn-custom btn-lg page-scroll">
                 Book Appointment
               </a>
             </li>
