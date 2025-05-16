@@ -18,7 +18,11 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            Care Connect Podiatry
+            <img
+              src="img/logo.jpg"
+              style={{ width: '90px', height: '80px' }}
+              alt="care logo"
+            />
           </a>{" "}
         </div>
 
@@ -32,11 +36,7 @@ export const Navigation = (props) => {
                 Home
               </a>
             </li>
-            <li>
-              <a href="#about" className="page-scroll">
-                About
-              </a>
-            </li>
+            
             <li>
               <a href="#services" className="page-scroll">
                 Services
@@ -50,6 +50,11 @@ export const Navigation = (props) => {
             <li>
               <a href="#contact" className="page-scroll">
                 Contact
+              </a>
+            </li>
+            <li>
+              <a href="https://contact-foot-clinic-podiatry.uk2.cliniko.com/bookings#service" className="btn btn-custom btn-lg page-scroll">
+                Book Appointment
               </a>
             </li>
           </ul>

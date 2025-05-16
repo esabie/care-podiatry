@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Expert podiatry services",
-    "paragraph": "At Care Connect Podiatry we aim to provide excellent care and promise to treat every patient as an individual at all times"
+    "paragraph": "At Contact Foot Clinic we aim to provide excellent care and promise to treat every patient as an individual at all times"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+44 123 456 1234",
-    "email": "info@careconnectpodiatry.com",
+    "address": "4-6 Short Wyre ST Colchester, Essex CO1 1LN",
+    "phone": "+44 7342 8362 64",
+    "email": "linda@contactfootclinic.co.uk",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,19 +162,19 @@
   "Features": [
     {
       "icon": "fa fa-award",
-      "title": "All our podiatrists are HCPC registered"
+      "title": "General Foot Health"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Members of the Royal College of Podiatry"
+      "title": "Nail Surgery"
     },
     {
       "icon": "fa fa-group",
-      "title": "Domiciliary visits"
+      "title": "Shockwave Therapy"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Free parking during your appointment"
+      "title": "Plantar Fasciitis"
     }
   ]
 }

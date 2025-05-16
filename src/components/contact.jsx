@@ -155,7 +155,7 @@ export const Contact = (props) => {
           <p>
           Copyright &copy; 2025 {" "}
             <a href="https://esabie.vercel.app/" rel="nofollow">
-              Esabie.
+              Contact Foot Clinic.
             </a>
             All rights reserved.
           </p>
