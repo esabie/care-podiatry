@@ -102,11 +102,23 @@ export const Contact = (props) => {
             <div className="contact-item">
               <h3>Contact Info</h3>
               <p>
-                <span>
-                  <i className="fa fa-map-marker"></i> Address
-                </span>
-                {props.data ? props.data.address : "loading"}
-              </p>
+  <span>
+    <i className="fa fa-map-marker"></i> Address
+  </span>
+  {props.data ? (
+    <a
+      href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+        props.data.address
+      )}`}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      {props.data.address}
+    </a>
+  ) : (
+    "loading"
+  )}
+</p>
             </div>
             <div className="contact-item">
               <p>
