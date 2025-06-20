@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-          Care Connect Podiatry provides a wide range of specialist podiatry services from general foot check-ups, 
+          Contact Foot Clinic provides a wide range of specialist podiatry services from general foot check-ups, 
           assessments, to foot care needs requiring specialist treatment. We are Health Care Professionals Council 
           (HCPC) registered and Royal College of Podiatry insured.
           </p>
