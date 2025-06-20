@@ -112,6 +112,7 @@ export const Contact = (props) => {
       )}`}
       target="_blank"
       rel="noopener noreferrer"
+      style={{ color: "white", textDecoration: "none" }}
     >
       {props.data.address}
     </a>
